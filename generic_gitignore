@@ -1,0 +1,30 @@
+# IDE Files
+.idea/
+.project
+.buildpath
+.settings/
+.metadata
+.classpath
+local.properties
+
+# Archives
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.bzip
+*.xz
+*.lzma
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+\#*\#
+
+#misc
+*.ini
+*.bak
+
