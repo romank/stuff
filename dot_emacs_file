@@ -15,3 +15,4 @@
  )
 (global-linum-mode 1)
 (setq linum-format "%d ")
+(add-hook 'before-save-hook 'delete-trailing-whitespace)
